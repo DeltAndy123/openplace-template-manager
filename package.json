@@ -1,5 +1,5 @@
 {
-  "name": "wplace-template-manager",
+  "name": "openplace-template-manager",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -24,6 +24,7 @@
     "yarn": "^1.22.22"
   },
   "devDependencies": {
+    "@types/node": "^25.2.3",
     "@types/png-chunk-text": "^1.0.3",
     "@types/png-chunks-encode": "^1.0.2",
     "@types/png-chunks-extract": "^1.0.2",
@@ -32,6 +33,5 @@
     "prettier": "^3.6.2",
     "typescript": "^5.5.3"
   },
-  "private": true,
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+  "private": true
 }

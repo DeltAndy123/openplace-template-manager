@@ -1,6 +1,6 @@
-# wplace.live Template Manager
+# openplace.live Template Manager
 
-An advanced template manager for wplace.live.
+An advanced template manager for openplace.live.
 
 ## Why does this exist?
 

@@ -7,7 +7,7 @@ import App from "./App";
 import { fetchHook } from "./fetchHook";
 import { inject } from "./utils/inject";
 
-log("wplace.live Template Manager successfully loaded.");
+log("openplace.live Template Manager successfully loaded.");
 
 async function main() {
     const body = await awaitElement("body");

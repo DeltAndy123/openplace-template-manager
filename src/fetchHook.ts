@@ -16,12 +16,12 @@ export function fetchHook() {
         tilesCache: new Map<number, CachedTile>(),
         jumpTo: null,
         pixelUrlRegex: new RegExp(
-            "^https://backend\\.wplace\\.live/s\\d+/pixel/(\\d+)/(\\d+)\\?x=(\\d+)&y=(\\d+)$",
+            "^https://openplace\\.live/s\\d+/pixel/(\\d+)/(\\d+)\\?x=(\\d+)&y=(\\d+)$",
         ),
         filesUrlRegex: new RegExp(
-            "^https://backend\\.wplace\\.live/files/s\\d+/tiles/(\\d+)/(\\d+)\\.png$",
+            "^https://openplace\\.live/files/s\\d+/tiles/(\\d+)/(\\d+)\\.png$",
         ),
-        randomTileUrlRegex: new RegExp("^https://backend\\.wplace\\.live/s\\d+/tile/random$"),
+        randomTileUrlRegex: new RegExp("^https://openplace\\.live/s\\d+/tile/random$"),
     };
 
     // @ts-ignore

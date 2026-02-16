@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         wplace.live Template Manager
-// @namespace    https://github.com/cedrickassen/wplace-overlay-manager
+// @name         openplace.live Template Manager
+// @namespace    https://github.com/DeltAndy123/openplace-template-manager
 // @version      1.10.0
-// @homepageURL  https://github.com/CedricKassen/wplace-template-manager
-// @supportURL   https://github.com/CedricKassen/wplace-template-manager/issues
+// @homepageURL  https://github.com/DeltAndy123/openplace-template-manager
+// @supportURL   https://github.com/DeltAndy123/openplace-template-manager/issues
 // @license      MIT
-// @description  An advanced template manager for wplace.live
-// @updateURL    https://raw.githubusercontent.com/CedricKassen/wplace-template-manager/refs/heads/main/dist/wplace-template-manager.user.js
-// @downloadURL  https://raw.githubusercontent.com/CedricKassen/wplace-template-manager/refs/heads/main/dist/wplace-template-manager.user.js
+// @description  An advanced template manager for openplace.live
+// @updateURL    https://raw.githubusercontent.com/DeltAndy123/openplace-template-manager/refs/heads/main/dist/openplace-template-manager.user.js
+// @downloadURL  https://raw.githubusercontent.com/DeltAndy123/openplace-template-manager/refs/heads/main/dist/openplace-template-manager.user.js
 // @author       Cedric Kassen
-// @match        *://*.wplace.live/*
+// @match        *://*.openplace.live/*
 // @run-at       document-idle
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
